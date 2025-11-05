@@ -1,0 +1,63 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+}
+<!-- Most of the styling was taken from bootstrap apart from the normal site.css, this is because visual studio has bootstrap in it -->
+<!-- Referred:  https://getbootstrap.com/docs/5.3 -->
+<div class="container-fluid">
+    <!-- Logout Button -->
+    <div class="row">
+        <div class="col-12 text-left">
+            <button class="btn btn-outline-danger mt-3 ml-3" onclick="logout()">Logout</button>
+        </div>
+    </div>
+</div>
+
+<div class="container text-center mt-3">
+    <h1 class="display-4">User Dashboard</h1>
+
+    <div class="profile-info">
+        <h2>User Profile Information</h2>
+        <div class="profile-picture">
+            <img id="profilePicture"  alt="Profile Picture" />
+        </div>
+        <p><strong>Name:</strong> <span id="userName">Loading...</span></p>
+        <p><strong>Email:</strong> <span id="userEmail">Loading...</span></p>
+        <p><strong>Phone:</strong> <span id="userPhone">Loading...</span></p>
+        <p><strong>Address:</strong> <span id="userAddress">Loading...</span></p>
+
+        <a href="/Home/UpdateProfile" class="btn btn-primary update-button">Update Profile</a>
+    </div>
+
+    <div class="account-summary">
+        <h2>Account Summary</h2>
+        <div class="account">
+            <p><strong>Account Number:</strong> <span id="accountNumber">Loading...</span></p>
+            <p><strong>Current Balance:</strong> <span id="currentBalance">Loading...</span></p>
+            <a href="/Home/ShowTransactions" class="btn btn-secondary view-transactions">Show Transactions</a>
+        </div>
+    </div>
+
+   
+    <div class="deposit-section">
+        <h2>Deposit Funds</h2>
+        <input type="number" id="depositAmount" placeholder="Enter amount to deposit" class="form-control" />
+        <button class="btn btn-success" id="depositButton" onclick="deposit()">Deposit</button>
+    </div>
+
+   
+    <div class="withdraw-section mt-4">
+        <h2>Withdraw Funds</h2>
+        <input type="number" id="withdrawAmount" placeholder="Enter amount to withdraw" class="form-control" />
+        <button class="btn btn-danger" id="withdrawButton" onclick="withdraw()">Withdraw</button>
+    </div>
+
+ 
+    <div class="transfer-section mt-4">
+        <h2>Transfer Funds</h2>
+        <input type="text" id="transferAccount" placeholder="Enter recipient's account number" class="form-control" />
+        <input type="number" id="transferAmount" placeholder="Enter amount to transfer" class="form-control mt-2" />
+        <button class="btn btn-primary" id="transferButton" onclick="transfer()">Transfer</button>
+    </div>
+</div>
+
+<script src="~/js/site.js" defer></script>

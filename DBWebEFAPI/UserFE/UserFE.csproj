@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\js\man.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\js\admin1.png" />
+    <None Include="wwwroot\js\admin2.png" />
+    <None Include="wwwroot\js\cat.png" />
+    <None Include="wwwroot\js\gamer.png" />
+    <None Include="wwwroot\js\man.png" />
+    <None Include="wwwroot\js\profile.png" />
+    <None Include="wwwroot\js\programmer.png" />
+    <None Include="wwwroot\js\woman.png" />
+  </ItemGroup>
+
+</Project>

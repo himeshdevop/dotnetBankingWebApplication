@@ -1,0 +1,101 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+<!-- Most of the styling was taken from *** Bootstrap *** apart from the normal site.css, this is because visual studio has bootstrap in it -->
+<!-- Referred:  https://getbootstrap.com/docs/5.3 -->
+
+<button id="logoutButton" class="logout-button">Logout</button>
+<h2>Admin Dashboard</h2>
+
+<div class="profile-info">
+    <button onclick="loadUserDetails()">Load Admin Details</button>
+    <h2>Admin Profile Information</h2>
+    <div class="profile-picture">
+        <img id="profilePicture" alt="Profile Picture" />
+    </div>
+    <p><strong>Name:</strong> <span id="userName"></span></p>
+    <p><strong>Email:</strong> <span id="userEmail"></span></p>
+    <p><strong>Phone:</strong> <span id="userPhone"></span></p>
+    <p><strong>Address:</strong> <span id="userAddress"></span></p>
+
+    
+</div>
+
+<div style="position: relative;">
+ 
+    
+
+
+    <h3>Manage User Accounts</h3>
+    <button id="updateAccountButton">Update Own Account</button>
+    <button id="createUserButton">Create Users</button>
+    <button id="editUserButton">Edit Users</button>
+    <button id="deactivateUserButton">Activate/Deactivate Users</button>
+    <button id="resetPasswordButton">Reset User Passwords</button>
+    <button id="searchUserButton">Search User</button>
+    <button id="searchAccountButton">Search Account</button>
+    <button id="displayTransactionsButton">Display Transactions</button>
+    <button id="displayAudits">Display Audits</button>
+</div>
+
+<script>
+
+    
+
+    document.getElementById('updateAccountButton').addEventListener('click', function () {
+        
+        window.location.href = 'UpdateAdmin'; 
+    });
+    
+    document.getElementById('createUserButton').addEventListener('click', function () {
+        
+        window.location.href = 'CreateUser'; 
+    });
+
+    document.getElementById('editUserButton').addEventListener('click', function () {
+        
+        window.location.href = 'UpdateUser'; 
+    });
+
+    document.getElementById('deactivateUserButton').addEventListener('click', function () {
+        
+        window.location.href = 'DeactivateUser'; 
+    });
+
+    document.getElementById('resetPasswordButton').addEventListener('click', function () {
+        
+        window.location.href = 'ResetPassword'; 
+    });
+
+    document.getElementById('searchUserButton').addEventListener('click', function () {
+        
+        window.location.href = 'SearchUser'; 
+    });
+
+    document.getElementById('searchAccountButton').addEventListener('click', function () {
+        
+        window.location.href = 'SearchAccount'; 
+    });
+
+    document.getElementById('displayTransactionsButton').addEventListener('click', function () {
+        
+        window.location.href = 'DisplayTransactions'; 
+    });
+
+    
+    document.getElementById('logoutButton').addEventListener('click', function () {
+        
+        window.location.href = 'Index'; 
+    });
+
+    document.getElementById('displayAudits').addEventListener('click', function () {
+        
+        window.location.href = 'DisplayAudits'; 
+    });
+
+
+</script>

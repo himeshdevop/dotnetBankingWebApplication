@@ -1,0 +1,211 @@
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\bin\Debug\net6.0\appsettings.json
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.staticwebassets.runtime.json
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.exe
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.deps.json
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.runtimeconfig.json
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.dll
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.pdb
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.AssemblyInfoInputs.cache
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.AssemblyInfo.cs
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.csproj.CoreCompileInputs.cache
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.RazorAssemblyInfo.cache
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.RazorAssemblyInfo.cs
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.sourcelink.json
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.UserFE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.build.UserFE.props
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserFE.props
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserFE.props
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\obj\Debug\net6.0\scopedcss\bundle\UserFE.styles.css
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\obj\Debug\net6.0\scopedcss\projectbundle\UserFE.bundle.scp.css
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.dll
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\obj\Debug\net6.0\refint\UserFE.dll
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.pdb
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.genruntimeconfig.cache
+C:\Users\94765\source\repos\DBWebEFAPI\UserFE\obj\Debug\net6.0\ref\UserFE.dll
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\bin\Debug\net6.0\appsettings.json
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.staticwebassets.runtime.json
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.exe
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.deps.json
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.runtimeconfig.json
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.dll
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.pdb
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.AssemblyInfoInputs.cache
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.AssemblyInfo.cs
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.csproj.CoreCompileInputs.cache
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.RazorAssemblyInfo.cache
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.RazorAssemblyInfo.cs
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.UserFE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.build.UserFE.props
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserFE.props
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserFE.props
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\scopedcss\bundle\UserFE.styles.css
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\scopedcss\projectbundle\UserFE.bundle.scp.css
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.dll
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\refint\UserFE.dll
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.pdb
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.genruntimeconfig.cache
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\ref\UserFE.dll
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\bin\Debug\net6.0\appsettings.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.staticwebassets.runtime.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.exe
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.deps.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.runtimeconfig.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.dll
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.pdb
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.AssemblyInfoInputs.cache
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.AssemblyInfo.cs
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.csproj.CoreCompileInputs.cache
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.RazorAssemblyInfo.cache
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.RazorAssemblyInfo.cs
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.UserFE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.build.UserFE.props
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserFE.props
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserFE.props
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\scopedcss\bundle\UserFE.styles.css
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\scopedcss\projectbundle\UserFE.bundle.scp.css
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.dll
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\refint\UserFE.dll
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.pdb
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.genruntimeconfig.cache
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\UserFE\obj\Debug\net6.0\ref\UserFE.dll
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\bin\Debug\net6.0\appsettings.Development.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\bin\Debug\net6.0\appsettings.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.staticwebassets.runtime.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.exe
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.deps.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.runtimeconfig.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.dll
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.pdb
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.AssemblyInfoInputs.cache
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.AssemblyInfo.cs
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.csproj.CoreCompileInputs.cache
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.MvcApplicationPartsAssemblyInfo.cache
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.RazorAssemblyInfo.cache
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.RazorAssemblyInfo.cs
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets.build.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets.development.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.UserFE.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.build.UserFE.props
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserFE.props
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserFE.props
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\scopedcss\bundle\UserFE.styles.css
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\scopedcss\projectbundle\UserFE.bundle.scp.css
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.dll
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\refint\UserFE.dll
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.pdb
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.genruntimeconfig.cache
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\ref\UserFE.dll
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\bin\Debug\net6.0\appsettings.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.staticwebassets.runtime.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.exe
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.deps.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.runtimeconfig.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.dll
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.pdb
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.AssemblyInfoInputs.cache
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.AssemblyInfo.cs
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.csproj.CoreCompileInputs.cache
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.RazorAssemblyInfo.cache
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.RazorAssemblyInfo.cs
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.UserFE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.build.UserFE.props
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserFE.props
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserFE.props
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\scopedcss\bundle\UserFE.styles.css
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\scopedcss\projectbundle\UserFE.bundle.scp.css
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.dll
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\refint\UserFE.dll
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.pdb
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.genruntimeconfig.cache
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\UserFE\obj\Debug\net6.0\ref\UserFE.dll
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\bin\Debug\net6.0\appsettings.Development.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\bin\Debug\net6.0\appsettings.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.staticwebassets.runtime.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.exe
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.deps.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.runtimeconfig.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.dll
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.pdb
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.AssemblyInfoInputs.cache
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.AssemblyInfo.cs
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.csproj.CoreCompileInputs.cache
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.MvcApplicationPartsAssemblyInfo.cache
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.RazorAssemblyInfo.cache
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.RazorAssemblyInfo.cs
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets.build.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets.development.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.UserFE.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.build.UserFE.props
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserFE.props
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserFE.props
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\scopedcss\bundle\UserFE.styles.css
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\scopedcss\projectbundle\UserFE.bundle.scp.css
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.dll
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\refint\UserFE.dll
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.pdb
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.genruntimeconfig.cache
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\ref\UserFE.dll
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\bin\Debug\net6.0\appsettings.Development.json
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\bin\Debug\net6.0\appsettings.json
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.staticwebassets.runtime.json
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.exe
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.deps.json
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.runtimeconfig.json
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.dll
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\bin\Debug\net6.0\UserFE.pdb
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.AssemblyInfoInputs.cache
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.AssemblyInfo.cs
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.csproj.CoreCompileInputs.cache
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.MvcApplicationPartsAssemblyInfo.cache
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.RazorAssemblyInfo.cache
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.RazorAssemblyInfo.cs
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets.build.json
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets.development.json
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.UserFE.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.build.UserFE.props
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserFE.props
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserFE.props
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\scopedcss\bundle\UserFE.styles.css
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\scopedcss\projectbundle\UserFE.bundle.scp.css
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.dll
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\refint\UserFE.dll
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.pdb
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\UserFE.genruntimeconfig.cache
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\UserFE\obj\Debug\net6.0\ref\UserFE.dll

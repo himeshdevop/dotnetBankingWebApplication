@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<!-- Most of the styling was taken from bootstrap apart from the normal site.css, this is because visual studio has bootstrap in it -->
+<!-- Referred:  https://getbootstrap.com/docs/5.3 -->
+<h2>Admin Login</h2>
+
+<div>
+    <label for="userId">User ID:</label>
+    <input type="text" id="loginId" name="loginId" required />
+</div>
+<br />
+<div>
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password" required />
+</div>
+<br />
+<div>
+    <label for="serialCode">Serial Code:</label>
+    <input type="text" id="serialCode" name="serialCode" required />
+</div>
+<br />
+<div>
+    <button id="loginButton" onclick="login()" />Login</Button>
+</div>

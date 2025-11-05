@@ -1,0 +1,1502 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\restfulapi\\controllers\\audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|solutionrelative:restfulapi\\controllers\\audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\restfulapi\\controllers\\bankrestapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|solutionrelative:restfulapi\\controllers\\bankrestapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\restfulapi\\controllers\\depositmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|solutionrelative:restfulapi\\controllers\\depositmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\restfulapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|solutionrelative:restfulapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\restfulapi\\controllers\\transactionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|solutionrelative:restfulapi\\controllers\\transactionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\restfulapi\\controllers\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|solutionrelative:restfulapi\\controllers\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\restfulapi\\controllers\\withdrawalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|solutionrelative:restfulapi\\controllers\\withdrawalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\adminfe\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|solutionrelative:adminfe\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\userfe\\views\\home\\updateprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|solutionrelative:userfe\\views\\home\\updateprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\userfe\\views\\home\\showtransactions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|solutionrelative:userfe\\views\\home\\showtransactions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\userfe\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|solutionrelative:userfe\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\userfe\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|solutionrelative:userfe\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\userfe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|solutionrelative:userfe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\userfe\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|solutionrelative:userfe\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\adminfe\\views\\home\\admindash.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|solutionrelative:adminfe\\views\\home\\admindash.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\adminfe\\views\\home\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|solutionrelative:adminfe\\views\\home\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\adminfe\\views\\home\\deactivateuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|solutionrelative:adminfe\\views\\home\\deactivateuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\adminfe\\views\\home\\displaytransactions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|solutionrelative:adminfe\\views\\home\\displaytransactions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\adminfe\\views\\home\\displayaudits.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|solutionrelative:adminfe\\views\\home\\displayaudits.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\adminfe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|solutionrelative:adminfe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\adminfe\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|solutionrelative:adminfe\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\adminfe\\views\\home\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|solutionrelative:adminfe\\views\\home\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\adminfe\\views\\home\\searchaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|solutionrelative:adminfe\\views\\home\\searchaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\adminfe\\views\\home\\searchuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|solutionrelative:adminfe\\views\\home\\searchuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\adminfe\\views\\home\\updateuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|solutionrelative:adminfe\\views\\home\\updateuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\adminfe\\views\\home\\updateadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|solutionrelative:adminfe\\views\\home\\updateadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\restfulapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|solutionrelative:restfulapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\restfulapi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|solutionrelative:restfulapi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\restfulapi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|solutionrelative:restfulapi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\restfulapi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|solutionrelative:restfulapi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\restfulapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|solutionrelative:restfulapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\restfulapi\\controllers\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|solutionrelative:restfulapi\\controllers\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\views\\transactions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\views\\transactions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\views\\transactions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\views\\transactions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\views\\transactions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\views\\transactions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\views\\transactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\views\\transactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\views\\audits\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\views\\audits\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\views\\audits\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\views\\audits\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\views\\audits\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\views\\audits\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\views\\audits\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\views\\audits\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\views\\audits\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\views\\audits\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\views\\accounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\views\\accounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\views\\accounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\views\\accounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\migrations\\dbmanagemodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\migrations\\dbmanagemodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\migrations\\20241012064218_initialcreatefive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\migrations\\20241012064218_initialcreatefive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\migrations\\20240924035644_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\migrations\\20240924035644_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\data\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\data\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\data\\dbmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\data\\dbmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\data\\audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\data\\audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\data\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\data\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\adminfe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|solutionrelative:adminfe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\adminfe\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|solutionrelative:adminfe\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\userfe\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|solutionrelative:userfe\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\userfe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|solutionrelative:userfe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\userfe\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|solutionrelative:userfe\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\userfe\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|solutionrelative:userfe\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\userfe\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|solutionrelative:userfe\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\userfe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|solutionrelative:userfe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\restfulapi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|solutionrelative:restfulapi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\controllers\\auditscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\controllers\\auditscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\adminfe\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|solutionrelative:adminfe\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\adminfe\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|solutionrelative:adminfe\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\adminfe\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|solutionrelative:adminfe\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\adminfe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|solutionrelative:adminfe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\dbwebefapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B0914D9-D4AB-4B44-8EC4-5671E3DB4E99}|DBWebEFAPI\\DBWebEFAPI.csproj|solutionrelative:dbwebefapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\adminfe\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{664DD5FB-5A55-4D8F-B1DF-D3CDD11E32A0}|AdminFE\\AdminFE.csproj|solutionrelative:adminfe\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\userfe\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|solutionrelative:userfe\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\userfe\\wwwroot\\js\\admin1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{FFC23970-68BF-482E-9160-1225A0E40CEC}|UserFE\\UserFE.csproj|solutionrelative:userfe\\wwwroot\\js\\admin1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\restfulapi\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|solutionrelative:restfulapi\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\restfulapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|solutionrelative:restfulapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|d:\\himesh_senanayake\\dc\\final version\\dbwebefapi (new comments removed)\\dbwebefapi\\restfulapi\\restfulapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B508CD54-5A52-4DC6-A2B4-1C74678B0BB5}|RESTfulAPI\\RESTfulAPI.csproj|solutionrelative:restfulapi\\restfulapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "AdminFE\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "AdminFE\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAJcCAAAAAAAAAAAiwKwCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-02T11:59:36.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankRestAPI.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Controllers\\BankRestAPI.cs",
+              "RelativeDocumentMoniker": "RESTfulAPI\\Controllers\\BankRestAPI.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Controllers\\BankRestAPI.cs",
+              "RelativeToolTip": "RESTfulAPI\\Controllers\\BankRestAPI.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAANQBAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:39:41.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RESTfulAPI\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RESTfulAPI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T13:32:26.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WithdrawalModel.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Controllers\\WithdrawalModel.cs",
+              "RelativeDocumentMoniker": "RESTfulAPI\\Controllers\\WithdrawalModel.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Controllers\\WithdrawalModel.cs",
+              "RelativeToolTip": "RESTfulAPI\\Controllers\\WithdrawalModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:04:45.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Controllers\\UserModel.cs",
+              "RelativeDocumentMoniker": "RESTfulAPI\\Controllers\\UserModel.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Controllers\\UserModel.cs",
+              "RelativeToolTip": "RESTfulAPI\\Controllers\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:25:40.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionModel.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Controllers\\TransactionModel.cs",
+              "RelativeDocumentMoniker": "RESTfulAPI\\Controllers\\TransactionModel.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Controllers\\TransactionModel.cs",
+              "RelativeToolTip": "RESTfulAPI\\Controllers\\TransactionModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:23:10.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepositModel.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Controllers\\DepositModel.cs",
+              "RelativeDocumentMoniker": "RESTfulAPI\\Controllers\\DepositModel.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Controllers\\DepositModel.cs",
+              "RelativeToolTip": "RESTfulAPI\\Controllers\\DepositModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:35:05.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Audit.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Controllers\\Audit.cs",
+              "RelativeDocumentMoniker": "RESTfulAPI\\Controllers\\Audit.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Controllers\\Audit.cs",
+              "RelativeToolTip": "RESTfulAPI\\Controllers\\Audit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T07:24:30.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateProfile.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\Views\\Home\\UpdateProfile.cshtml",
+              "RelativeDocumentMoniker": "UserFE\\Views\\Home\\UpdateProfile.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\Views\\Home\\UpdateProfile.cshtml",
+              "RelativeToolTip": "UserFE\\Views\\Home\\UpdateProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T08:10:12.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShowTransactions.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\Views\\Home\\ShowTransactions.cshtml",
+              "RelativeDocumentMoniker": "UserFE\\Views\\Home\\ShowTransactions.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\Views\\Home\\ShowTransactions.cshtml",
+              "RelativeToolTip": "UserFE\\Views\\Home\\ShowTransactions.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T06:13:51.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "UserFE\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "UserFE\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T05:23:54.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "UserFE\\Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "UserFE\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T05:17:32.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UserFE\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UserFE\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T05:09:02.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "UserFE\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "UserFE\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T05:37:16.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminDash.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\Home\\AdminDash.cshtml",
+              "RelativeDocumentMoniker": "AdminFE\\Views\\Home\\AdminDash.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\Home\\AdminDash.cshtml",
+              "RelativeToolTip": "AdminFE\\Views\\Home\\AdminDash.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T04:35:17.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateUser.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\Home\\CreateUser.cshtml",
+              "RelativeDocumentMoniker": "AdminFE\\Views\\Home\\CreateUser.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\Home\\CreateUser.cshtml",
+              "RelativeToolTip": "AdminFE\\Views\\Home\\CreateUser.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T04:49:38.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeactivateUser.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\Home\\DeactivateUser.cshtml",
+              "RelativeDocumentMoniker": "AdminFE\\Views\\Home\\DeactivateUser.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\Home\\DeactivateUser.cshtml",
+              "RelativeToolTip": "AdminFE\\Views\\Home\\DeactivateUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T02:30:46.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DisplayTransactions.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\Home\\DisplayTransactions.cshtml",
+              "RelativeDocumentMoniker": "AdminFE\\Views\\Home\\DisplayTransactions.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\Home\\DisplayTransactions.cshtml",
+              "RelativeToolTip": "AdminFE\\Views\\Home\\DisplayTransactions.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T05:40:26.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DisplayAudits.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\Home\\DisplayAudits.cshtml",
+              "RelativeDocumentMoniker": "AdminFE\\Views\\Home\\DisplayAudits.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\Home\\DisplayAudits.cshtml",
+              "RelativeToolTip": "AdminFE\\Views\\Home\\DisplayAudits.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T10:54:27.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AdminFE\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AdminFE\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T11:58:07.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AdminFE\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "AdminFE\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T03:05:03.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\Home\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "AdminFE\\Views\\Home\\ResetPassword.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\Home\\ResetPassword.cshtml",
+              "RelativeToolTip": "AdminFE\\Views\\Home\\ResetPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T02:59:07.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SearchAccount.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\Home\\SearchAccount.cshtml",
+              "RelativeDocumentMoniker": "AdminFE\\Views\\Home\\SearchAccount.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\Home\\SearchAccount.cshtml",
+              "RelativeToolTip": "AdminFE\\Views\\Home\\SearchAccount.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T03:42:47.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SearchUser.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\Home\\SearchUser.cshtml",
+              "RelativeDocumentMoniker": "AdminFE\\Views\\Home\\SearchUser.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\Home\\SearchUser.cshtml",
+              "RelativeToolTip": "AdminFE\\Views\\Home\\SearchUser.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T03:15:42.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateUser.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\Home\\UpdateUser.cshtml",
+              "RelativeDocumentMoniker": "AdminFE\\Views\\Home\\UpdateUser.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\Home\\UpdateUser.cshtml",
+              "RelativeToolTip": "AdminFE\\Views\\Home\\UpdateUser.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T12:23:12.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UpdateAdmin.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\Home\\UpdateAdmin.cshtml",
+              "RelativeDocumentMoniker": "AdminFE\\Views\\Home\\UpdateAdmin.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\Home\\UpdateAdmin.cshtml",
+              "RelativeToolTip": "AdminFE\\Views\\Home\\UpdateAdmin.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T04:22:46.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Program.cs",
+              "RelativeDocumentMoniker": "RESTfulAPI\\Program.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Program.cs",
+              "RelativeToolTip": "RESTfulAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:19:45.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "RESTfulAPI\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "RESTfulAPI\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:55:35.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "RESTfulAPI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "RESTfulAPI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:55:33.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "RESTfulAPI\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "RESTfulAPI\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T07:21:16.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AccountModel.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Controllers\\AccountModel.cs",
+              "RelativeDocumentMoniker": "RESTfulAPI\\Controllers\\AccountModel.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Controllers\\AccountModel.cs",
+              "RelativeToolTip": "RESTfulAPI\\Controllers\\AccountModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:03:12.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RESTfulAPI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RESTfulAPI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T02:48:19.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Program.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Program.cs",
+              "RelativeToolTip": "DBWebEFAPI\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:35:22.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DBWebEFAPI\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:47:35.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DBWebEFAPI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:47:33.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Transactions\\Index.cshtml",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Views\\Transactions\\Index.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Transactions\\Index.cshtml",
+              "RelativeToolTip": "DBWebEFAPI\\Views\\Transactions\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:47:28.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Transactions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Views\\Transactions\\Edit.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Transactions\\Edit.cshtml",
+              "RelativeToolTip": "DBWebEFAPI\\Views\\Transactions\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:47:25.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Transactions\\Details.cshtml",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Views\\Transactions\\Details.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Transactions\\Details.cshtml",
+              "RelativeToolTip": "DBWebEFAPI\\Views\\Transactions\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:47:22.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Transactions\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Views\\Transactions\\Delete.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Transactions\\Delete.cshtml",
+              "RelativeToolTip": "DBWebEFAPI\\Views\\Transactions\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:47:19.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Transactions\\Create.cshtml",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Views\\Transactions\\Create.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Transactions\\Create.cshtml",
+              "RelativeToolTip": "DBWebEFAPI\\Views\\Transactions\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:47:15.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "DBWebEFAPI\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:47:12.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "DBWebEFAPI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:47:10.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DBWebEFAPI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:47:06.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "DBWebEFAPI\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:47:04.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DBWebEFAPI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T02:47:18.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Audits\\Index.cshtml",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Views\\Audits\\Index.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Audits\\Index.cshtml",
+              "RelativeToolTip": "DBWebEFAPI\\Views\\Audits\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:46:57.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Audits\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Views\\Audits\\Edit.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Audits\\Edit.cshtml",
+              "RelativeToolTip": "DBWebEFAPI\\Views\\Audits\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:46:54.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Audits\\Details.cshtml",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Views\\Audits\\Details.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Audits\\Details.cshtml",
+              "RelativeToolTip": "DBWebEFAPI\\Views\\Audits\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:46:52.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Audits\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Views\\Audits\\Delete.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Audits\\Delete.cshtml",
+              "RelativeToolTip": "DBWebEFAPI\\Views\\Audits\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:46:49.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Audits\\Create.cshtml",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Views\\Audits\\Create.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Audits\\Create.cshtml",
+              "RelativeToolTip": "DBWebEFAPI\\Views\\Audits\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:46:44.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Accounts\\Index.cshtml",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Views\\Accounts\\Index.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Accounts\\Index.cshtml",
+              "RelativeToolTip": "DBWebEFAPI\\Views\\Accounts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:46:39.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Accounts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Views\\Accounts\\Edit.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Accounts\\Edit.cshtml",
+              "RelativeToolTip": "DBWebEFAPI\\Views\\Accounts\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:46:36.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Accounts\\Details.cshtml",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Views\\Accounts\\Details.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Accounts\\Details.cshtml",
+              "RelativeToolTip": "DBWebEFAPI\\Views\\Accounts\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:46:32.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Accounts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Views\\Accounts\\Delete.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Accounts\\Delete.cshtml",
+              "RelativeToolTip": "DBWebEFAPI\\Views\\Accounts\\Delete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:46:29.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Accounts\\Create.cshtml",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Views\\Accounts\\Create.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Views\\Accounts\\Create.cshtml",
+              "RelativeToolTip": "DBWebEFAPI\\Views\\Accounts\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T08:26:38.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DBManageModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Migrations\\DBManageModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Migrations\\DBManageModelSnapshot.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Migrations\\DBManageModelSnapshot.cs",
+              "RelativeToolTip": "DBWebEFAPI\\Migrations\\DBManageModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJABAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:28:30.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20241012064218_InitialCreateFive.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Migrations\\20241012064218_InitialCreateFive.cs",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Migrations\\20241012064218_InitialCreateFive.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Migrations\\20241012064218_InitialCreateFive.cs",
+              "RelativeToolTip": "DBWebEFAPI\\Migrations\\20241012064218_InitialCreateFive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T06:42:19.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20240924035644_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Migrations\\20240924035644_InitialCreate.cs",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Migrations\\20240924035644_InitialCreate.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Migrations\\20240924035644_InitialCreate.cs",
+              "RelativeToolTip": "DBWebEFAPI\\Migrations\\20240924035644_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:56:45.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Data\\User.cs",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Data\\User.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Data\\User.cs",
+              "RelativeToolTip": "DBWebEFAPI\\Data\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T07:05:26.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Data\\Transaction.cs",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Data\\Transaction.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Data\\Transaction.cs",
+              "RelativeToolTip": "DBWebEFAPI\\Data\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:32:16.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DBManage.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Data\\DBManage.cs",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Data\\DBManage.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Data\\DBManage.cs",
+              "RelativeToolTip": "DBWebEFAPI\\Data\\DBManage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:32:56.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Audit.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Data\\Audit.cs",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Data\\Audit.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Data\\Audit.cs",
+              "RelativeToolTip": "DBWebEFAPI\\Data\\Audit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:28:34.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Data\\Account.cs",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Data\\Account.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Data\\Account.cs",
+              "RelativeToolTip": "DBWebEFAPI\\Data\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:25:26.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Controllers\\AccountsController.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "DBWebEFAPI\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:28:07.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Program.cs",
+              "RelativeDocumentMoniker": "AdminFE\\Program.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Program.cs",
+              "RelativeToolTip": "AdminFE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:49:50.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AdminFE\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AdminFE\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAowEMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-02T11:59:54.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "UserFE\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "UserFE\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-13T03:18:50.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\Program.cs",
+              "RelativeDocumentMoniker": "UserFE\\Program.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\Program.cs",
+              "RelativeToolTip": "UserFE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:56:15.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "UserFE\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "UserFE\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:56:10.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "UserFE\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "UserFE\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:56:12.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "UserFE\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "UserFE\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:56:13.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "RESTfulAPI\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "RESTfulAPI\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:55:30.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UserFE\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UserFE\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T05:21:02.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\appsettings.json",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\appsettings.json",
+              "RelativeToolTip": "DBWebEFAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T14:47:37.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\appsettings.Development.json",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\appsettings.Development.json",
+              "RelativeToolTip": "DBWebEFAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-29T03:58:58.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DBWebEFAPI\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:46:21.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "DBWebEFAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAADwv1AAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:00:05.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Controllers\\TransactionsController.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "DBWebEFAPI\\Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAIwI0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:20:42.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "AuditsController.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Controllers\\AuditsController.cs",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Controllers\\AuditsController.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Controllers\\AuditsController.cs",
+              "RelativeToolTip": "DBWebEFAPI\\Controllers\\AuditsController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAIwIIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T06:45:26.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AdminFE\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AdminFE\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:43:23.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AdminFE\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AdminFE\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:43:21.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AdminFE\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AdminFE\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:39:20.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AdminFE\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AdminFE\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAqwC0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:59:44.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DBWebEFAPI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:11:53.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DBWebEFAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\DBWebEFAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DBWebEFAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T12:27:11.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AdminFE\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\AdminFE\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AdminFE\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T07:34:01.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "UserFE\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "UserFE\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-02T05:12:07.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "admin1.png - PNG [347x355, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\wwwroot\\js\\admin1.png",
+              "RelativeDocumentMoniker": "UserFE\\wwwroot\\js\\admin1.png",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\UserFE\\wwwroot\\js\\admin1.png - PNG [347x355, 32 bit, PNG]",
+              "RelativeToolTip": "UserFE\\wwwroot\\js\\admin1.png - PNG [347x355, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-11T05:37:30.522Z",
+              "EditorCaption": " - PNG [347x355, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "RESTfulAPI\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "RESTfulAPI\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-02T02:49:12.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RESTfulAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RESTfulAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T13:33:18.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "RESTfulAPI",
+              "DocumentMoniker": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\RESTfulAPI.csproj",
+              "RelativeDocumentMoniker": "RESTfulAPI\\RESTfulAPI.csproj",
+              "ToolTip": "D:\\Himesh_Senanayake\\DC\\Final Version\\DBWebEFAPI (New Comments Removed)\\DBWebEFAPI\\RESTfulAPI\\RESTfulAPI.csproj",
+              "RelativeToolTip": "RESTfulAPI\\RESTfulAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-23T13:33:14.222Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

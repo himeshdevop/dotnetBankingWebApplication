@@ -1,0 +1,246 @@
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.staticwebassets.runtime.json
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.exe
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.deps.json
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.runtimeconfig.json
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.dll
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.pdb
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RestSharp.dll
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.csproj.AssemblyReference.cache
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.AssemblyInfoInputs.cache
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.AssemblyInfo.cs
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.csproj.CoreCompileInputs.cache
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.RazorAssemblyInfo.cache
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.RazorAssemblyInfo.cs
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.sourcelink.json
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.RESTfulAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.RESTfulAPI.props
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RESTfulAPI.props
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RESTfulAPI.props
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\scopedcss\bundle\RESTfulAPI.styles.css
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\scopedcss\projectbundle\RESTfulAPI.bundle.scp.css
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.csproj.Up2Date
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.dll
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\refint\RESTfulAPI.dll
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.pdb
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.genruntimeconfig.cache
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\ref\RESTfulAPI.dll
+C:\Users\94765\source\repos\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.staticwebassets.runtime.json
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.exe
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.deps.json
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.runtimeconfig.json
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.dll
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.pdb
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RestSharp.dll
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.csproj.AssemblyReference.cache
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.AssemblyInfoInputs.cache
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.AssemblyInfo.cs
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.csproj.CoreCompileInputs.cache
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.RazorAssemblyInfo.cache
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.RazorAssemblyInfo.cs
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.RESTfulAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.RESTfulAPI.props
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RESTfulAPI.props
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RESTfulAPI.props
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\scopedcss\bundle\RESTfulAPI.styles.css
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\scopedcss\projectbundle\RESTfulAPI.bundle.scp.css
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.csproj.Up2Date
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.dll
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\refint\RESTfulAPI.dll
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.pdb
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.genruntimeconfig.cache
+C:\Users\rivin\Downloads\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\ref\RESTfulAPI.dll
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.staticwebassets.runtime.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.exe
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.deps.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.runtimeconfig.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.dll
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.pdb
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RestSharp.dll
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.csproj.AssemblyReference.cache
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.AssemblyInfoInputs.cache
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.AssemblyInfo.cs
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.csproj.CoreCompileInputs.cache
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.RazorAssemblyInfo.cache
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.RazorAssemblyInfo.cs
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.RESTfulAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.RESTfulAPI.props
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RESTfulAPI.props
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RESTfulAPI.props
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\scopedcss\bundle\RESTfulAPI.styles.css
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\scopedcss\projectbundle\RESTfulAPI.bundle.scp.css
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.csproj.Up2Date
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.dll
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\refint\RESTfulAPI.dll
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.pdb
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.genruntimeconfig.cache
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\Frrreeeeeshhhhh\DBWebEFAPI(Niga)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\ref\RESTfulAPI.dll
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\appsettings.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.staticwebassets.runtime.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.exe
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.deps.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.runtimeconfig.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.dll
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.pdb
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RestSharp.dll
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.csproj.AssemblyReference.cache
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.AssemblyInfoInputs.cache
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.AssemblyInfo.cs
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.csproj.CoreCompileInputs.cache
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.RazorAssemblyInfo.cache
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.RazorAssemblyInfo.cs
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.RESTfulAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.RESTfulAPI.props
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RESTfulAPI.props
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RESTfulAPI.props
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\scopedcss\bundle\RESTfulAPI.styles.css
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\scopedcss\projectbundle\RESTfulAPI.bundle.scp.css
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.csproj.Up2Date
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.dll
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\refint\RESTfulAPI.dll
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.pdb
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.genruntimeconfig.cache
+D:\Himesh_Senanayake\DC\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\ref\RESTfulAPI.dll
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.staticwebassets.runtime.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.exe
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.deps.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.runtimeconfig.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.dll
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.pdb
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RestSharp.dll
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.csproj.AssemblyReference.cache
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.AssemblyInfoInputs.cache
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.AssemblyInfo.cs
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.csproj.CoreCompileInputs.cache
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.RazorAssemblyInfo.cache
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.RazorAssemblyInfo.cs
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.RESTfulAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.RESTfulAPI.props
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RESTfulAPI.props
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RESTfulAPI.props
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\scopedcss\bundle\RESTfulAPI.styles.css
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\scopedcss\projectbundle\RESTfulAPI.bundle.scp.css
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.csproj.Up2Date
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.dll
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\refint\RESTfulAPI.dll
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.pdb
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.genruntimeconfig.cache
+C:\Users\rivin\OneDrive - Curtin\DC Stuff\Assignment 2\DBWebEFAPI\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\ref\RESTfulAPI.dll
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\appsettings.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.staticwebassets.runtime.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.exe
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.deps.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.runtimeconfig.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.dll
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.pdb
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RestSharp.dll
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.csproj.AssemblyReference.cache
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.AssemblyInfoInputs.cache
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.AssemblyInfo.cs
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.csproj.CoreCompileInputs.cache
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.RazorAssemblyInfo.cache
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.RazorAssemblyInfo.cs
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.RESTfulAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.RESTfulAPI.props
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RESTfulAPI.props
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RESTfulAPI.props
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\scopedcss\bundle\RESTfulAPI.styles.css
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\scopedcss\projectbundle\RESTfulAPI.bundle.scp.css
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.csproj.Up2Date
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.dll
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\refint\RESTfulAPI.dll
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.pdb
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.genruntimeconfig.cache
+D:\Himesh_Senanayake\DC\DBWebEFAPI (Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\ref\RESTfulAPI.dll
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\appsettings.json
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.staticwebassets.runtime.json
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.exe
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.deps.json
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.runtimeconfig.json
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.dll
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RESTfulAPI.pdb
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\bin\Debug\net6.0\RestSharp.dll
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.csproj.AssemblyReference.cache
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.AssemblyInfoInputs.cache
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.AssemblyInfo.cs
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.csproj.CoreCompileInputs.cache
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.RazorAssemblyInfo.cache
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.RazorAssemblyInfo.cs
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.RESTfulAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.RESTfulAPI.props
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RESTfulAPI.props
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RESTfulAPI.props
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\scopedcss\bundle\RESTfulAPI.styles.css
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\scopedcss\projectbundle\RESTfulAPI.bundle.scp.css
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.csproj.Up2Date
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.dll
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\refint\RESTfulAPI.dll
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.pdb
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\RESTfulAPI.genruntimeconfig.cache
+D:\Himesh_Senanayake\DC\Final Version\DBWebEFAPI (New Comments Removed)\DBWebEFAPI\RESTfulAPI\obj\Debug\net6.0\ref\RESTfulAPI.dll

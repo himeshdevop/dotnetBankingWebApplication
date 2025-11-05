@@ -1,0 +1,69 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+#auditTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+    #auditTable, #auditTable th, #auditTable td {
+        border: 1px solid black;
+    }
+
+        #auditTable th, #auditTable td {
+            padding: 8px;
+            text-align: left;
+        }
+
+/* Button styling */
+#loadAuditsButton {
+    padding: 10px 15px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+#loadAuditsButton:hover {
+        background-color: #f0f0f0;
+    }
+
+/* Title styling */
+#auditTitle {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.profile-picture {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; 
+    height: auto; 
+}
+
+#profilePicture {
+    max-width: 150px; 
+    max-height: 150px; 
+    width: auto; 
+    height: auto; 
+    border-radius: 50%; 
+}

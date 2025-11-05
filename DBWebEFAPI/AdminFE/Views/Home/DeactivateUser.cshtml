@@ -1,0 +1,23 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@{
+    ViewData["Title"] = "Deactivate User";
+}
+<!-- Most of the styling was taken from bootstrap apart from the normal site.css, this is because visual studio has bootstrap in it -->
+<!-- Referred:  https://getbootstrap.com/docs/5.3 -->
+<h1>Activate/ Deactivate User</h1>
+
+<div class="form-group">
+    <label for="deactivateUserId">User Id</label>
+    <input type="text" id="deactivateUserId" class="form-control" placeholder="Enter User Id" />
+</div>
+
+
+<button id="deactivateButton" class="btn btn-danger" onclick="deactivateUser()">Deactivate</button>
+
+
+<button id="activateButton" class="btn btn-success" onclick="activateUser()">Activate</button>
+
+<script src="~/js/site.js"></script>

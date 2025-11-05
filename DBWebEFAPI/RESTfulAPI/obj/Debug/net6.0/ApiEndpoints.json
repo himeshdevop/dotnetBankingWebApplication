@@ -1,0 +1,214 @@
+[
+  {
+    "ContainingType": "RESTfulAPI.Controllers.BankRestAPI",
+    "Method": "CreateAccount",
+    "RelativePath": "api/BankRestAPI/CreateAccount",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountData",
+        "Type": "RESTfulAPI.Controllers.AccountModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTfulAPI.Controllers.BankRestAPI",
+    "Method": "CreateAudit",
+    "RelativePath": "api/BankRestAPI/CreateAudit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "auditData",
+        "Type": "RESTfulAPI.Controllers.Audit",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTfulAPI.Controllers.BankRestAPI",
+    "Method": "CreateUser",
+    "RelativePath": "api/BankRestAPI/CreateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userData",
+        "Type": "RESTfulAPI.Controllers.UserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTfulAPI.Controllers.BankRestAPI",
+    "Method": "DeleteAccount",
+    "RelativePath": "api/BankRestAPI/DeleteAccount/{accountNO}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountNO",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTfulAPI.Controllers.BankRestAPI",
+    "Method": "DeleteUser",
+    "RelativePath": "api/BankRestAPI/DeleteUser/{userId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTfulAPI.Controllers.BankRestAPI",
+    "Method": "Deposit",
+    "RelativePath": "api/BankRestAPI/Deposit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "depositData",
+        "Type": "RESTfulAPI.Controllers.DepositModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTfulAPI.Controllers.BankRestAPI",
+    "Method": "GetAccount",
+    "RelativePath": "api/BankRestAPI/GetAccount/{accountNO}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountNO",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTfulAPI.Controllers.BankRestAPI",
+    "Method": "GetAllTransactions",
+    "RelativePath": "api/BankRestAPI/GetAllTransactions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTfulAPI.Controllers.BankRestAPI",
+    "Method": "GetAudits",
+    "RelativePath": "api/BankRestAPI/GetAudits",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTfulAPI.Controllers.BankRestAPI",
+    "Method": "GetUser",
+    "RelativePath": "api/BankRestAPI/GetUser/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTfulAPI.Controllers.BankRestAPI",
+    "Method": "GetUserByName",
+    "RelativePath": "api/BankRestAPI/GetUserByName/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTfulAPI.Controllers.BankRestAPI",
+    "Method": "UpdateAccount",
+    "RelativePath": "api/BankRestAPI/UpdateAccount",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountData",
+        "Type": "RESTfulAPI.Controllers.AccountModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTfulAPI.Controllers.BankRestAPI",
+    "Method": "UpdateUser",
+    "RelativePath": "api/BankRestAPI/UpdateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userData",
+        "Type": "RESTfulAPI.Controllers.UserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTfulAPI.Controllers.BankRestAPI",
+    "Method": "Withdrawal",
+    "RelativePath": "api/BankRestAPI/Withdrawal",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "withdrawalData",
+        "Type": "RESTfulAPI.Controllers.WithdrawalModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

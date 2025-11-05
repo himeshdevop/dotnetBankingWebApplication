@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Transaction History";
+}
+<div class="container">
+    <h1 class="display-4 text-center">Transaction History</h1>
+
+    <button id="loadTransactionsButton" onclick="loadTransactions()">Load Transactions</button>
+
+    <div class="mb-3">
+        <label for="itemCount">Display:</label>
+        <select id="itemCount" onchange="loadTransactions()">
+            <option value="5">5</option>
+            <option value="10">10</option>
+            <option value="20">20</option>
+            <option value="50">50</option>
+            <option value="all">All</option>
+        </select>
+
+        <label for="accountFilter" class="ms-3">Filter by Account Number:</label>
+        <input type="text" id="accountFilter" oninput="loadTransactions()" placeholder="Enter Account Number" />
+
+     
+        <label for="startDate" class="ms-3">Start Date:</label>
+        <input type="date" id="startDate" class="form-control" onchange="loadTransactions()" />
+
+        <label for="endDate" class="ms-3">End Date:</label>
+        <input type="date" id="endDate" class="form-control" onchange="loadTransactions()" />
+    </div>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Transaction ID</th>
+                <th>Account Number</th>
+                <th>Amount</th>
+                <th>Description</th>
+                <th>Date</th>
+            </tr>
+        </thead>
+        <tbody id="transactionTableBody">
+            
+        </tbody>
+    </table>
+</div>
+
+<script src="~/js/site.js" defer></script>
